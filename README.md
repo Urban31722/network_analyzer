@@ -118,3 +118,6 @@ def compute_window_features(chunk_rows):
 
 ---
 ## 매뉴얼 작성
+> 사용자 설정값에 따른 차이점을 알려주는 매뉴얼 작성
+
+![manual](https://github.com/Lineon24/AION-NIDS-Service/blob/main/images/메뉴얼.gif)
