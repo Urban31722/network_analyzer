@@ -103,7 +103,7 @@ def compute_window_features(chunk_rows):
     payload = {"features": agg}
 ```
 ---
-## gui.py 이미지
+## gui
 > 로그가 보이는 부분
 
 ![log](https://github.com/Urban31722/network_analyzer/blob/main/log.png?raw=true)
