@@ -106,15 +106,15 @@ def compute_window_features(chunk_rows):
 ## gui
 > 로그가 보이는 부분
 
-![log](https://github.com/Urban31722/network_analyzer/blob/main/log.png?raw=true)
+![log](https://github.com/Urban31722/network_analyzer/blob/main/images/log.png?raw=true)
 
 > 위험 ip가 보이는 부분
 
-![risk_ips](https://github.com/Urban31722/network_analyzer/blob/main/risk_ips.png?raw=true)
+![risk_ips](https://github.com/Urban31722/network_analyzer/blob/main/images/risk_ips.png?raw=true)
 
 > 사용자 설정값이 보이는 부분
 
-![setting](https://github.com/Urban31722/network_analyzer/blob/main/setting.png?raw=true)
+![setting](https://github.com/Urban31722/network_analyzer/blob/main/images/setting.png?raw=true)
 
 ---
 ## 매뉴얼 작성
